@@ -1,9 +1,9 @@
-tensorflow==2.3.0
+tensorflow
 Flask
-gevent==1.4.0
+gevent
 h5py
 numpy
 Pillow
-Werkzeug==2.0.1
-gunicorn==20.0.4
-urllib3==1.26.5
+Werkzeug
+gunicorn
+urllib3
